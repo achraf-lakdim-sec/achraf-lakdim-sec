@@ -18,9 +18,9 @@ I'm a cybersecurity M.Sc. student at Université Grenoble Alpes and an apprentic
 | Project | What it is | Status |
 | --- | --- | --- |
 | **SOC/SOAR proof of concept** | An open-source detection and response stack (Wazuh, Sysmon, Suricata, Zeek, Shuffle, TheHive, Cortex, MISP) tested against a simulated APT intrusion. All six attack phases were detected, with a mean time to detect under 5 seconds, automated triage in about 8.5 seconds and no false positives during the evaluation. | Write-up in progress |
-| **[NAV](https://github.com/achraflakdim33-boop/nav)** | A network mapping and scanning web app: a FastAPI backend drives Nmap, and a React front end shows hosts, services and vulnerabilities on an interactive map. | Available |
+| **[NAV](https://github.com/achraf-lakdim-sec/nav)** | A network mapping and scanning web app: a FastAPI backend drives Nmap, and a React front end shows hosts, services and vulnerabilities on an interactive map. | Available |
 | **Purple-team lab** | A home lab where each ATT&CK technique is executed, detected by tested rules, collected as evidence and written up as a forensic report. | Building |
-| **[Black Hat Python studies](https://github.com/achraflakdim33-boop/BlackHat-Python-Studies)** | Network tools rebuilt while working through *Black Hat Python*: TCP and UDP clients and servers, a netcat clone, a TCP proxy and SSH command execution. | Available |
+| **[Black Hat Python studies](https://github.com/achraf-lakdim-sec/BlackHat-Python-Studies)** | Network tools rebuilt while working through *Black Hat Python*: TCP and UDP clients and servers, a netcat clone, a TCP proxy and SSH command execution. | Available |
 
 ## Toolkit
 
