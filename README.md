@@ -43,4 +43,5 @@ I speak Arabic (native), French (fluent) and English (professional).
 
 ## Contact
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/achraf-lakdim) or by [email](mailto:achraflakdim33@gmail.com).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/achraf-lakdim-96a886366) or by [email](mailto:achraflakdim33@gmail.com).
+
